@@ -27,7 +27,7 @@ if (isset($_POST['register'])) {
  
         if ($result) {
             echo "<script> alert('Your registration was successful!');
-            window.location.href='../index';
+            window.location.href='../signin';
             </script>";
         } else {
             echo "<script> alert('Something went wrong!');
