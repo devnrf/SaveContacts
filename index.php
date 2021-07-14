@@ -25,7 +25,7 @@ if(isset($_SESSION['username'])){
     <div class="jumbotron text-center">
         <h1>My First Phonebook - SaveContacts</h1>
         <p>Keep your contacts secure!</p>
-        <a href="signin" class="btn btn-info" role="button">Get Started</a>
+        <a href="register" class="btn btn-info" role="button">Get Started</a>
 
     </div>
 
